@@ -18,6 +18,11 @@ Autonomous AI agent that investigates any CSV dataset using Llama 3.1
 running locally via Ollama. The agent independently decides which analyses 
 to run using tool calling and produces a written data science brief.
 
+**[VisionAudit](https://github.com/MohamedAteek/visionaudit)**
+AI-powered computer vision inspection system using YOLOv8 for object detection, 
+anomaly analysis, annotated image generation, and automated quality scoring. 
+Built locally with FastAPI, OpenCV, and Python.
+
 ---
 
 ## Stack
