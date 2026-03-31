@@ -23,10 +23,15 @@ AI-powered computer vision inspection system using YOLOv8 for object detection,
 anomaly analysis, annotated image generation, and automated quality scoring. 
 Built locally with FastAPI, OpenCV, and Python.
 
+**[StreamScope](https://github.com/MohamedAteek/streamscope)**
+Real-time industrial sensor analytics platform that simulates IoT machine data, 
+detects anomalies on live streams, and visualizes sensor behavior through a 
+live dashboard using FastAPI and Python.
+
 ---
 
 ## Stack
-Python · FastAPI · scikit-learn · XGBoost · SHAP · pandas · LangChain · Ollama
+Python · FastAPI · scikit-learn · XGBoost · SHAP · pandas · LangChain · Ollama · OpenCV · YOLOv8 · NumPy
 
 ---
 
